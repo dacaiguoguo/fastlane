@@ -53,3 +53,5 @@ spec/fixtures/*.itmsp/*.png
 **/report.xml
 **/.bundle
 fastlane/lib/fastlane/plugins/template/.rubocop.yml
+
+pilot/lastBuild.json
